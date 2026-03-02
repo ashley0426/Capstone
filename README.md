@@ -1,30 +1,12 @@
 <<<<<<< HEAD
 
-# ![60PLUS-PLAYGROUND_MAIN-BRANDING_2024_White-Background](https://github.com/Twouloo/60-Plus-Playground/assets/150364814/31734080-5f42-4c81-914c-110899d7eae3)
+# 60PLUS-PLAYGROUND
+## My QUT Capstone project
+## My first real-life project
 
+The app is a playground for elder people where they can spend good quality time through traveling, shopping and quizzing.
 
-*How to setup*
+*I had contributed to the project as a front end developer, worked on reasearching and app design. In addition, an assistance for code developmenmt.*
 
-1. Install dependencies
+The project gave me a chance to **work as team and the real partner apart from the campus**. Gaining skill included **time management, reasearching and analysing**
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-   
-3. Download Expo Go App and scan QR Code.
-
-
-=======
-# MXB107
-# MXB107
-# MXB107
-# MXB107
-# MXB107
-# MXB107
->>>>>>> bd66d1dd7fe13a72ead3b458cddb4bffcb2ef49f
