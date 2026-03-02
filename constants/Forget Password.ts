@@ -1,0 +1,1 @@
+export const errorMessages = {'empty': 'Please enter an email address', 'invalid': 'Please enter a valid email address', 'failed': 'Sorry the email does not exist', 'notTyped': ''}
